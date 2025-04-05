@@ -1,0 +1,22 @@
+2025-04-05 22:43:50,110 - recruitment_system - INFO - Created directory: uploads/cvs
+2025-04-05 22:43:50,111 - recruitment_system - INFO - Created directory: uploads/job_descriptions
+2025-04-05 22:43:50,111 - recruitment_system - INFO - Created directory: logs
+2025-04-05 22:46:15,880 - recruitment_system - INFO - Created directory: uploads/cvs
+2025-04-05 22:46:15,904 - recruitment_system - INFO - Created directory: uploads/job_descriptions
+2025-04-05 22:46:15,905 - recruitment_system - INFO - Created directory: logs
+2025-04-05 22:46:16,196 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-04-05 22:46:38,492 - recruitment_system - INFO - Created directory: uploads/cvs
+2025-04-05 22:46:38,492 - recruitment_system - INFO - Created directory: uploads/job_descriptions
+2025-04-05 22:46:38,492 - recruitment_system - INFO - Created directory: logs
+2025-04-05 22:52:22,787 - recruitment_system - INFO - Created directory: uploads/cvs
+2025-04-05 22:52:22,788 - recruitment_system - INFO - Created directory: uploads/job_descriptions
+2025-04-05 22:52:22,788 - recruitment_system - INFO - Created directory: logs
+2025-04-05 22:53:38,305 - recruitment_system - INFO - Event: job_description_received - {"title": ""}
+2025-04-05 22:53:42,538 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-05 23:05:18,351 - recruitment_system - INFO - Created directory: uploads/cvs
+2025-04-05 23:05:18,352 - recruitment_system - INFO - Created directory: uploads/job_descriptions
+2025-04-05 23:05:18,352 - recruitment_system - INFO - Created directory: logs
